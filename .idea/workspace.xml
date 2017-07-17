@@ -51,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selection_sort.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="selection_sort.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap3/selection_sort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -61,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="insert_sort.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="insert_sort.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chap3/insert_sort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -501,14 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap3/insert_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap2/maximum_profit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -537,6 +529,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap3/insert_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding />
         </state>
       </provider>
