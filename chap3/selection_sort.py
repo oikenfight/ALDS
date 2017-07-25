@@ -7,7 +7,7 @@ for i in range(N):
     for j in range(i, N):
         if A[j] < A[minj]:
             minj = j
-    if i is not minj:
+    if i != minj:
         A[i], A[minj] = A[minj], A[i]
         cnt += 1
 
